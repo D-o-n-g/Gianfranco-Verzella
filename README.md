@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D-o-n-g
+- 👋 Hi, I’m Gianfranco
 - 👀 I’m interested in mathematics, especially in numerical analysis, statistics, mathematical physics.
 - 🌱 I’m currently learning machine learning and python.
 - 💞️ I’m looking to collaborate on machine learning projects.
